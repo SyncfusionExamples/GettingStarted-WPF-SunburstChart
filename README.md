@@ -201,3 +201,5 @@ The Syncfusion WPF Sunburst Chart supports various built-in themes. You can appl
 
 - [Syncfusion WPF Sunburst Chart – Getting Started Documentation](https://help.syncfusion.com/wpf/sunburst-chart/getting-started)
 
+<img width="1919" height="1007" alt="Screenshot 2026-03-30 114652" src="https://github.com/user-attachments/assets/06fc8c9b-c729-4fd1-af74-1a96946cd371" />
+
